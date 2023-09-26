@@ -1,6 +1,7 @@
 # datasci_4_web_viz
 
 ## R's Shiny Visualization: https://posit.cloud/content/6622049
+## Python's Shiny Visualization: https://stephehu.shinyapps.io/my-app/
 
 ## Python Shiny Visualization: ![Screenshot 2023-09-25 231609](https://github.com/stephe-hu/datasci_4_web_viz/assets/123779806/77cb0681-5764-4882-be62-d623813b16a2)
 
@@ -8,7 +9,7 @@
 
 
 ## Challenges
-I did not encounter any major technical challenges with the assignment. I did encounter some minor challenges when trying to format the visualizations in the way I wanted. I was able to resolve them after some trial and error and by referring to the class examples and textbook.
+I encountered some problems when trying to deploy the shiny r app. I realized that it was because I was using Google Shell instead of using an R IDE to deploy it. I got around this by deploying it directly on posit.cloud. I also encountered some issues when deploying my shiny python app. First, it was because I forgot to include a requirements.txt, which I quickly fixed. Then, when I successfully deployed the app and clicked on the url, the window shows that there was an error and that the application exited before accepting connections. I couldn't figure out where the error was, so I just refreshed my page and redeployed it. Then, the deployment failed and I got an error in the terminal that says `Application deployment failed with error`. Again, I refreshed the page, and redeployed it. The terminal says that the deployment was successful and the url worked this time.
 
 ## Insights and Patterns
-I noticed that the code for formatting the visualization of the data is similar between the options (python flask, shiny python, and shiny r). This results in the UI interface being similar.
+Because I used similar codes when formatting the visualizations, the UI interface looks similar for each method. 
