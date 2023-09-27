@@ -3,7 +3,7 @@
 ## R's Shiny Visualization: https://posit.cloud/content/6622049
 ## Python's Shiny Visualization: https://stephehu.shinyapps.io/my-app/
 
-## Python Shiny Visualization: ![Screenshot 2023-09-25 231609](https://github.com/stephe-hu/datasci_4_web_viz/assets/123779806/77cb0681-5764-4882-be62-d623813b16a2)
+## Python Shiny Visualization: ![Screenshot 2023-09-26 213436](https://github.com/stephe-hu/datasci_4_web_viz/assets/123779806/5a475b4c-1ff6-46f4-9621-962571414037)
 
 ## Python Flask Visualization: ![Screenshot 2023-09-25 231704](https://github.com/stephe-hu/datasci_4_web_viz/assets/123779806/b96d3bc0-bce2-4271-ae4b-2f54b75f60ea)
 
