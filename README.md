@@ -1,6 +1,6 @@
 # datasci_4_web_viz
 
-## R's Shiny Visualization: https://posit.cloud/content/6622049
+## R's Shiny Visualization: https://stephehu.shinyapps.io/project/
 ## Python's Shiny Visualization: https://stephehu.shinyapps.io/my-app/
 
 ## Python Shiny Visualization: ![Screenshot 2023-09-26 213436](https://github.com/stephe-hu/datasci_4_web_viz/assets/123779806/5a475b4c-1ff6-46f4-9621-962571414037)
